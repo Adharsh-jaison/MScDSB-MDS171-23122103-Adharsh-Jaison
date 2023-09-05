@@ -1,0 +1,4 @@
+ITEM = 	onion
+No. of items: 	2
+price: 	54
+phone no. : 6589658932
