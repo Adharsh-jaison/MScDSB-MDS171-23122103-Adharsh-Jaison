@@ -18,5 +18,5 @@ Email:   adharsh.jaison@msds.christuniversity.in
 |7.|05-09-23|lab07|Expense Tracker|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
 |8.|05-09-23|lab08|Stack class|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
 |9.|05-09-23|lab09|resturant class|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
-|10.|26-10-23|lab09|student management|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
+|10.|26-10-23|lab10|student management|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
 
