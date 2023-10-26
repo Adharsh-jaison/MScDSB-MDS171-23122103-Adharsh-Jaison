@@ -7,7 +7,7 @@ Email:   adharsh.jaison@msds.christuniversity.in
 
 ***
 ## Index
-|sl.no|date|file name|topic||link|
+|sl.no|date|file name|topic|link|
 |:----:|:----:|:----:|:----:|:----:|
 |1.|23-08-23|lab01|write a program to enter name and push it to github|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
 |2.|29-08-23|lab02|write a program to enter  number and print its digits in words and push it to github|https://github.com/Adharsh-jaison/MScDSB-MDS171-23122103-Adharsh-Jaison.git|
